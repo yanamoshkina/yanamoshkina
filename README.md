@@ -1,4 +1,4 @@
-### Hi there, my name is Yana 👋https://vk.com/emoji/e/f09fa696.png
+### Hi there, my name is Yana 👋
 
 <!--
 **yanamoshkina/yanamoshkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
