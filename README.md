@@ -1,6 +1,6 @@
 ## 👋 **Hi there, my name is Yana** 
 ### 💫 **and I want to be a QA Engineer!**
-![alt text](https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/07/github-profile-m0nica.png?fit=2500%2C1250&ssl=1)
+![alt text]()
 
 
 
