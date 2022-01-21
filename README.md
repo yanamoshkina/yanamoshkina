@@ -1,5 +1,5 @@
 ## 👋 **Hi there, my name is Yana** 👋
-### 💫 ** and I want to be a QA Engineer 💫
+### 💫 **and I want to be a QA Engineer** 💫
 
 
 
