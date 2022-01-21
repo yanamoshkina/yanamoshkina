@@ -6,7 +6,7 @@
 - 🐾 QA Course by Vadim Ksendzov (May 2021 - present time)
 - 🌈 How to reach me: [Telegram](https://t.me/yana_moshkina), [LinkedIn](https://www.linkedin.com/in/yana-moshkina-a2b6221b5/)
 -
-<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="80"> <img src="https://pngset.com/images/adding-icon-launcher-for-postman-native-app-in-ubuntu-postman-tool-transportation-vehicle-aircraft-ball-transparent-png-2661845.png" width="80">
+<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="80"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" width="80">
 
 
 
