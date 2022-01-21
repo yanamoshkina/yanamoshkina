@@ -1,6 +1,5 @@
-## **Hi there, my name is Yana** 👋
-
-![alt text](https://www.petstopdog.info/wp-content/uploads/velsh-korgi-pembrok-puppy-with-ball-750x500.jpg)
+## 👋 **Hi there, my name is Yana** 👋
+### 💫 ** and I want to be a QA Engineer 💫
 
 
 
