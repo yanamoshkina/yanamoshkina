@@ -1,6 +1,6 @@
 ## 👋 **Hi there, my name is Yana** 
 ### 💫 **and I want to be a QA Engineer!**
-![alt text](https://s.04597.com.ua/upload/images/news/icon/000/052/855/leonardo-dicaprio-great-gatsby_5fcf621a43d19.gif)
+![alt text](https://i.gifer.com/origin/23/233aa6a16090f75fa8a0cd6e8872fd4b_w200.gif)
 
 
 
