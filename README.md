@@ -1,5 +1,8 @@
 ## 👋 **Hi there, my name is Yana** 
-### 💫 **and I want to be a QA Engineer**
+### 💫 **and I want to be a QA Engineer!**
+![alt text](https://raw.githubusercontent.com/gist/koddsson/35cc66c3240ab8f018f62670da6cfb71/raw/2412af315cba0ee57d9047f8a6e679b367bc80c3/welcome-to-my-profile.gif)
+
+#### 
 
 
 
