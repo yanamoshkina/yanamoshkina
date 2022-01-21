@@ -5,7 +5,8 @@
 ####
 - 🐾 QA Course by Vadim Ksendzov (May 2021 - present time)
 - 🌈 How to reach me: [Telegram](https://t.me/yana_moshkina), [LinkedIn](https://www.linkedin.com/in/yana-moshkina-a2b6221b5/)
-- ![alt text](![alt text]) ![image](https://user-images.githubusercontent.com/97629841/150525048-578ea935-8fb6-4ff5-9400-1ec664fd2a51.png)
+- 
+- ![image](https://user-images.githubusercontent.com/97629841/150525048-578ea935-8fb6-4ff5-9400-1ec664fd2a51.png)
 
 
 
