@@ -1,6 +1,7 @@
 ## 👋 **Hi there, my name is Yana** 
 ### 💫 **and I want to be a QA Engineer!**
-# WELCOME TO MY GITHUB 🌚
+# 
+✌️ WELCOME TO MY GITHUB
 ![alt text](https://i.gifer.com/origin/23/233aa6a16090f75fa8a0cd6e8872fd4b_w200.gif)
 
 ####
