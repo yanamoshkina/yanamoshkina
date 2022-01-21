@@ -1,8 +1,6 @@
 ### Hi there, my name is Yana 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanamoshkina)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanamoshkina&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanamoshkina&show_icons=true&theme=tokyonight)
 <!--
 **yanamoshkina/yanamoshkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
