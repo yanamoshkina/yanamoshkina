@@ -1,6 +1,6 @@
 ## **Hi there, my name is Yana** 👋
 
-![This is an image](https://myoctocat.com/assets/images/octocats/octocat-14.svg)
+![alt text](https://www.petstopdog.info/wp-content/uploads/velsh-korgi-pembrok-puppy-with-ball-750x500.jpg)
 
 
 
