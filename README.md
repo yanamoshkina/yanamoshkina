@@ -1,6 +1,6 @@
 ## 👋 **Hi there, my name is Yana** 
 ### 💫 **and I want to be a QA Engineer!**
-#####![alt text](http://orig14.deviantart.net/596e/f/2013/293/4/8/welcome_1_by_micatinistaa-d6r6l05.gif)
+![alt text](https://blog.vverh.digital/wp-content/uploads/2019/03/image-3.gif)
 
 
 
