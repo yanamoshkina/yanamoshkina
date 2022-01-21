@@ -1,6 +1,6 @@
 ## **Hi there, my name is Yana** 👋
 
-![This is an image](https://myoctocat.com/build-your-octocat/)
+![This is an image](https://myoctocat.com/build-your-octocat.svg)
 
 
 
