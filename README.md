@@ -7,7 +7,7 @@
 - 🌈 How to reach me: [Telegram](https://t.me/yana_moshkina), [LinkedIn](https://www.linkedin.com/in/yana-moshkina-a2b6221b5/), [e-mail](yanamosh73@gmail.com)
 
 
-![alt text](![alt text])
+
 
 
 
