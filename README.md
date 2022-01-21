@@ -1,6 +1,6 @@
 ## 👋 **Hi there, my name is Yana** 
 ### 💫 **and I want to be a QA Engineer!**
-![alt text](https://гифки.рус/uploads/posts/2018-04/1524171973_1472-gifka-welcome.gif/to/image.jpg)
+![alt text](http://orig14.deviantart.net/596e/f/2013/293/4/8/welcome_1_by_micatinistaa-d6r6l05.gif)
 
 
 
