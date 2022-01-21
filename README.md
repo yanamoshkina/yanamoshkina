@@ -6,7 +6,8 @@
 - 🐾 QA Course by Vadim Ksendzov (May 2021 - present time)
 - 🌈 How to reach me: [Telegram](https://t.me/yana_moshkina), [LinkedIn](https://www.linkedin.com/in/yana-moshkina-a2b6221b5/)
 -
-<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="80"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" width="80">
+<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="80"> <img src="![4691397_postman_icon](https://user-images.githubusercontent.com/97629841/150528362-56f5031a-8d8d-434d-af10-f704c6dd6140.png)
+" width="80">
 
 
 
