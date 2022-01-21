@@ -7,7 +7,7 @@
 - 🌈 How to reach me: [Telegram](https://t.me/yana_moshkina), [LinkedIn](https://www.linkedin.com/in/yana-moshkina-a2b6221b5/)
 - 🦄 I explore tools:
  
-<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="80"> <img src="https://pics.freeicons.io/uploads/icons/png/16475775581551942134-512.png" width="80"> <img src="https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg" width="80"> <img src="https://img.utdstc.com/icon/6ef/84b/6ef84b6f500add73876113d43d8fefc59393a5a3b039fc9e80fc4fc0a1446d6f:200" width="80">
+<img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="80"> <img src="https://pics.freeicons.io/uploads/icons/png/16475775581551942134-512.png" width="80"> <img src="https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg" width="80"> <img src="![6ef84b6f500add73876113d43d8fefc59393a5a3b039fc9e80fc4fc0a1446d6f_200-removebg-preview (1)](https://user-images.githubusercontent.com/97629841/150530070-a9bca623-411e-40fd-93db-749f987721ce.png)" width="80">
 
 
 
